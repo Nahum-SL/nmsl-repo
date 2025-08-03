@@ -1,4 +1,4 @@
-# Titulo 🥑
+# Titulo palta
 Primer repo creado en GitHub
 
 ## descripción
