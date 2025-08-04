@@ -1,4 +1,4 @@
-let nombre = "Nahum";
+let nombre = "Miguel";
 let apellido = "Salazar";
 
 const saludo = `Hola $(nombre) $(apellido)`;
